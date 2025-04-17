@@ -23,19 +23,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-  <p><strong>🤖 AI Engineer Meets Software Architect</strong><br>
-  Blending hands-on AI expertise with full-stack software engineering — from research to real-world deployment. 
-  Proven impact across computer vision, LLMs, and scalable cloud systems.
+  <p><strong>🤖 Apparently, AI Doesn’t Deploy Itself</strong><br>
+Which is why I bring hands-on experience in AI engineering, full-stack software development, and building cloud architectures that aren’t just functional, but robust and scalable. <a href="https://your-link.com">Click here to see more</a>  </p>
+
+
+  <p><strong>🌐 Talent Whisperer</strong><br>
+  Somehow managed to lead small, cross-discipline engineering teams while trying not to get in the way (They Did Most of the Work). Remote? Onsite? Cross-cultural? Been there, done that.
   </p>
 
 
-  <p><strong>🌐 Cross-Functional Tech Leader</strong><br>
-  Led lean, multicultural teams (3–7 people) across AI, Web, and VR — both remote and onsite. 
-  Driving collaboration across disciplines with empathy and technical depth.
-  </p>
-
-
-  <p><strong>🚀 Project-Driven, Outcome-Focused</strong><br>
-  Shipped AI solutions across diverse platforms — web apps, VR environments, real-time analytics. 
-  Experienced in Agile delivery, stakeholder management, and MVP launches.
+  <p><strong>🚀 Barely Holding It Together, But Things Are Getting Done</strong><br>
+    Solid at planning and keeping the team on track with Agile framework while keeping stakeholders in sync. Delivered AI solutions across diverse platforms with a strong focus on user-centric design.
   </p>
