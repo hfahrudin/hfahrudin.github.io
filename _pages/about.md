@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Engineer | Project Manager | Researcher
+subtitle: AI/ML & Software Engineer | Researcher | Project Manager
 
 profile:
   align: right
