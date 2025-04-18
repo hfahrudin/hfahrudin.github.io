@@ -2,9 +2,8 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Hasby Fahrudin
+
     - name: Languages
       value: English, German
 

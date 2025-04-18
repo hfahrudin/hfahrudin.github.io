@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
+permalink: /newcv/
 title: cv
 nav: true
 nav_order: 5
