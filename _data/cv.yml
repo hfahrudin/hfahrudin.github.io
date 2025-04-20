@@ -3,9 +3,10 @@
   contents:
     - name: Full Name
       value: Hasby Fahrudin
-
+    - name: Contact
+      value: fahrudinhasby12 [at] gmail [dot] com
     - name: Languages
-      value: English, German
+      value: English, Korean, Bahasa
 
 - title: Education
   type: time_table
@@ -27,7 +28,7 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
