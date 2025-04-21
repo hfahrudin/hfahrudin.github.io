@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: AI/ML & Software Engineer | Researcher | Project Manager
 
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <p><strong>🤖 Apparently, AI Doesn’t Deploy Itself</strong><br>
-Which is why I bring hands-on experience in AI engineering, full-stack software development, and building cloud architectures that aren’t just functional, but robust and scalable. <a href="https://your-link.com">Click here to see more</a> </p>
+Which is why I bring hands-on experience in AI engineering, full-stack development, and cloud infrastructure to build systems that are not just functional but also robust and scalable.</p>
 
 
 <p><strong>🌐 Talent Whisperer</strong><br>
@@ -36,4 +36,6 @@ Somehow managed to lead small, cross-discipline engineering teams while trying n
   Solid at planning and keeping the team on track with Agile framework while keeping stakeholders in sync. Delivered AI solutions across diverse platforms with a strong focus on user-centric design.
 </p>
 
-<p>asasas</p>
+<p><strong>🤝 Let's Connect!</strong><br>
+  I'm open to contributing to open source projects and research initiatives.
+</p>
