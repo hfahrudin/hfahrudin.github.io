@@ -4,17 +4,17 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -23,22 +23,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -50,6 +50,18 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-launched-initial-version-of-my-website",
+          title: 'I launched initial version of my website.',
+          description: "",
+          section: "News",},{id: "news-i-launched-initial-version-of-my-website",
+          title: 'I launched initial version of my website.',
+          description: "",
+          section: "News",},{id: "news-i-launched-initial-version-of-my-website",
+          title: 'I launched initial version of my website.',
+          description: "",
+          section: "News",},{id: "news-i-launched-initial-version-of-my-website",
+          title: 'I launched initial version of my website.',
+          description: "",
+          section: "News",},{id: "news-i-launched-initial-version-of-my-website",
           title: 'I launched initial version of my website.',
           description: "",
           section: "News",},{id: "projects-project-1",
