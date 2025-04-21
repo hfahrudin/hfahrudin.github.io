@@ -28,7 +28,7 @@ Which is why I bring hands-on experience in AI engineering, full-stack developme
 
 
 <p><strong>🌐 Talent Whisperer</strong><br>
-Somehow managed to lead small, cross-discipline engineering teams while trying not to get in the way (They Did Most of the Work). Remote? Onsite? Cross-cultural? Been there, done that.
+Somehow managed to lead small, cross-discipline engineering teams while trying not to get in the way. Remote? Onsite? Cross-cultural? Been there, done that.
 </p>
 
 
