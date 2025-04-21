@@ -49,8 +49,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-launched-initial-version-of-my-website",
-          title: 'I launched initial version of my website.',
+            },},{id: "news-completed-b-sc-in-electrical-engineering-at-institut-teknologi-sepuluh-nopember",
+          title: 'Completed B.Sc. in Electrical Engineering at Institut Teknologi Sepuluh Nopember',
+          description: "",
+          section: "News",},{id: "news-completed-b-sc-in-electrical-engineering-at-institut-teknologi-sepuluh-nopember",
+          title: 'Completed B.Sc. in Electrical Engineering at Institut Teknologi Sepuluh Nopember',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
