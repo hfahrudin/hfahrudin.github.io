@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-09-01 15:59:00-0400
+date: 2023-06-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
-Completed B.Sc. in Electrical Engineering at [Institut Teknologi Sepuluh Nopember ](https://www.its.ac.id/)
+Secured 7th place in [SoccerNet 2023 - Jersey Number Tracking Challenge](https://www.soccer-net.org/tasks/jersey-number-recognition)
