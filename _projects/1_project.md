@@ -1,81 +1,38 @@
 ---
 layout: page
-title: project 1
+title: Data-Driven Innovation for SAIVA
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: 📦Products
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I joined AIBrain as a Tech Lead to lead a cross-functional engineering team comprising experts in VR, AI, and Fullstack development. Our mission: to deliver cutting-edge, data-driven features for SAIVA, an AI and VR-powered football analysis platform. As the driving force behind the technical execution, I played a key role in steering the product’s evolution from concept to deployment.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+🌟 My Role and Responsibilities:
+Team Leadership: I led a dynamic and talented team of engineers specializing in VR, AI, and Fullstack development, fostering a collaborative environment where each team member could contribute their unique expertise. My role involved not only guiding the team technically but also ensuring effective communication between cross-functional units to align development efforts with business objectives.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Product Strategy & Delivery: I collaborated closely with stakeholders, including product managers, designers, and sports scientists, to translate business requirements into actionable features. Working in an Agile framework, I managed sprints, prioritized tasks, and ensured that the team delivered high-quality data-driven features on schedule.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Technical Architecture & Decision Making: I was responsible for making key architectural decisions for the SAIVA platform, including the integration of AI models for tactical analysis and VR environments for immersive training. By ensuring scalability and reliability in the system's infrastructure, I made sure the platform could handle complex data inputs and provide seamless real-time performance.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+💡 Key Achievements:
+AI-Driven Tactical Insights: We implemented a unique AI feature that provides tactical insights during match analysis, which helps coaches and players refine their strategies. By leveraging cutting-edge machine learning models, the platform generates real-time feedback based on players’ movement and game context.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Immersive VR Experience for Coaches: I spearheaded the development of a VR-based coaching system where coaches can visualize football strategies and tactics in an interactive and immersive environment. This not only enhances decision-making during match planning but also helps in educating players on tactical nuances.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Data Processing Pipeline: Working with the team, I helped design and optimize the data processing pipeline, ensuring efficient handling of large-scale football match data. This data pipeline supported real-time tracking, player statistics, and video analysis for both coaches and players, offering a comprehensive feedback loop.
 
-{% raw %}
+🌐 Cross-Functional Collaboration:
+As a Tech Lead at AIBrain, I was deeply involved in bridging the technical gaps between different departments:
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+AI & Fullstack Coordination: I facilitated seamless integration between AI models and fullstack technologies, ensuring that our backend systems could process complex football data and deliver it to front-end applications in real time.
 
-{% endraw %}
+VR and AI Synergy: I worked closely with the VR team to ensure the AI-driven insights could be seamlessly displayed in immersive environments, offering an engaging experience for coaches and players to interact with match data.
+
+Stakeholder Communication: As a PM, I regularly communicated with stakeholders to ensure that technical progress was aligned with the product vision and that user feedback was continuously integrated into feature development.
+
+🔮 Vision and Future Impact:
+The journey with SAIVA at AIBrain has been incredibly rewarding. We’ve already made significant strides in transforming how football teams analyze and improve their game. Looking ahead, I’m excited to continue leading efforts to refine SAIVA’s AI capabilities, enhance its immersive VR features, and explore opportunities to expand its impact across other sports.
+

@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [📦Products, 🛠️Engineering, 📂Open Source]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
