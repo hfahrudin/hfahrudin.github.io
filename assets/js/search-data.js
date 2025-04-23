@@ -87,59 +87,59 @@ ninja.data = [{
           section: "News",},{id: "news-pivoted-to-drive-the-development-of-enterprise-llm-based-ai-agent-solutions-for-crosscert",
           title: 'Pivoted to drive the development of enterprise LLM-based AI Agent solutions for Crosscert...',
           description: "",
-          section: "News",},{id: "projects-optimize-llm-inference",
-          title: 'Optimize LLM Inference',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-product-management",
-          title: 'Product Management',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/11_project/";
-            },},{id: "projects-data-driven-innovation-for-saiva",
+          section: "News",},{id: "projects-data-driven-innovation-for-saiva",
           title: 'Data-Driven Innovation for SAIVA',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-enterprise-llm-based-ai-agent-solutions",
-          title: 'Enterprise LLM-Based AI Agent Solutions',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-facex",
-          title: 'facex',
-          description: "Lightweight, High-Performance Facial Expression Classifier",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-dockerize-llamafile",
-          title: 'Dockerize-Llamafile',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-trex-dqn",
-          title: 'trex-DQN',
-          description: "Can AI interprete Visual Input",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-football-multiagent-imitation-learning",
-          title: 'Football MultiAgent Imitation-Learning',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-metalearn-maml-reptile",
-          title: 'MetaLearn-MAML_Reptile',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/1/";
             },},{id: "projects-jersey-number-tracking",
           title: 'Jersey Number Tracking',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/10/";
             },},{id: "projects-online-vr",
           title: 'Online VR',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/11/";
+            },},{id: "projects-optimize-llm-inference",
+          title: 'Optimize LLM Inference',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2/";
+            },},{id: "projects-product-management",
+          title: 'Product Management',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3/";
+            },},{id: "projects-enterprise-llm-based-ai-agent-solutions",
+          title: 'Enterprise LLM-Based AI Agent Solutions',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4/";
+            },},{id: "projects-facex",
+          title: 'facex',
+          description: "Lightweight, High-Performance Facial Expression Classifier",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5/";
+            },},{id: "projects-dockerize-llamafile",
+          title: 'Dockerize-Llamafile',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6/";
+            },},{id: "projects-trex-dqn",
+          title: 'trex-DQN',
+          description: "Can AI interprete Visual Input",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7/";
+            },},{id: "projects-football-multiagent-imitation-learning",
+          title: 'Football MultiAgent Imitation-Learning',
+          description: "a project with no image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8/";
+            },},{id: "projects-metalearn-maml-reptile",
+          title: 'MetaLearn-MAML_Reptile',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9/";
             },},];
