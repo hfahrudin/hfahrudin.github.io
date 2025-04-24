@@ -134,7 +134,7 @@ ninja.data = [{
               window.location.href = "/projects/7/";
             },},{id: "projects-football-multiagent-imitation-learning",
           title: 'Football MultiAgent Imitation-Learning',
-          description: "a project with no image",
+          description: "Creating defensive player agents to imitate real-world tactics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8/";
             },},{id: "projects-metalearn-maml-reptile",
