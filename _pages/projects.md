@@ -6,6 +6,7 @@ nav: true
 nav_order: 2
 display_categories: [📦Products, 🛠️Engineering, 📂Open Source]
 horizontal: true
+
 ---
 
 <!-- pages/projects.md -->
