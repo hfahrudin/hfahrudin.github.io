@@ -87,9 +87,9 @@ ninja.data = [{
           section: "News",},{id: "news-pivoted-to-drive-the-development-of-enterprise-llm-based-ai-agent-solutions-for-crosscert",
           title: 'Pivoted to drive the development of enterprise LLM-based AI Agent solutions for Crosscert...',
           description: "",
-          section: "News",},{id: "projects-data-driven-innovation-for-saiva",
-          title: 'Data-Driven Innovation for SAIVA',
-          description: "with background image",
+          section: "News",},{id: "projects-saiva-data-driven-innovation",
+          title: 'SAIVA Data-Driven Innovation',
+          description: "Led the innovation of data-driven bring it to MVP-ready state",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1/";
             },},{id: "projects-jersey-number-tracking",
@@ -112,9 +112,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3/";
-            },},{id: "projects-enterprise-llm-based-ai-agent-solutions",
-          title: 'Enterprise LLM-Based AI Agent Solutions',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-enterprise-ai-agent-solutions",
+          title: 'Enterprise AI Agent Solutions',
+          description: "Levereging LLM and RAG architecture to Build Tech Support Agent",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4/";
             },},{id: "projects-facex",
