@@ -94,7 +94,7 @@ ninja.data = [{
               window.location.href = "/projects/1/";
             },},{id: "projects-jersey-number-tracking",
           title: 'Jersey Number Tracking',
-          description: "an other project with a background image and giscus comments",
+          description: "Our solution submitted on SoccerNet 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10/";
             },},{id: "projects-online-vr",
@@ -124,7 +124,7 @@ ninja.data = [{
               window.location.href = "/projects/5/";
             },},{id: "projects-dockerize-llamafile",
           title: 'Dockerize-Llamafile',
-          description: "another without an image",
+          description: "Making it easy to deploy and manage LlamaFile",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6/";
             },},{id: "projects-trex-dqn",
@@ -132,14 +132,14 @@ ninja.data = [{
           description: "Can AI interprete Visual Input",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7/";
-            },},{id: "projects-football-multiagent-imitation-learning",
-          title: 'Football MultiAgent Imitation-Learning',
+            },},{id: "projects-immitation-learning-in-football",
+          title: 'Immitation Learning in Football',
           description: "Creating defensive player agents to imitate real-world tactics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8/";
             },},{id: "projects-metalearn-maml-reptile",
           title: 'MetaLearn-MAML_Reptile',
-          description: "with background image",
+          description: "Implementations of popular meta-learning algorithms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9/";
             },},];
