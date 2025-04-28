@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -97,19 +104,24 @@ ninja.data = [{
           description: "Our solution submitted on SoccerNet 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10/";
-            },},{id: "projects-online-vr",
-          title: 'Online VR',
-          description: "another project with an image 🎉",
+            },},{id: "projects-facial-expression-detector",
+          title: 'Facial Expression Detector',
+          description: "Assisting Visually Impaired Individuals with Real-time Emotion Detection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11/";
+            },},{id: "projects-head-motion-prediction-in-online-vr",
+          title: 'Head Motion Prediction in Online VR',
+          description: "Enhancing Online VR Experiences with Customized Motion Tracking",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12/";
             },},{id: "projects-optimize-llm-inference",
           title: 'Optimize LLM Inference',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2/";
-            },},{id: "projects-product-management",
-          title: 'Product Management',
-          description: "another project with an image 🎉",
+            },},{id: "projects-product-amp-project-framework",
+          title: 'Product &amp;amp; Project Framework',
+          description: "An overview of my approach to managing products and projects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3/";
             },},{id: "projects-enterprise-ai-agent-solutions",
@@ -137,9 +149,4 @@ ninja.data = [{
           description: "Creating defensive player agents to imitate real-world tactics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8/";
-            },},{id: "projects-metalearn-maml-reptile",
-          title: 'MetaLearn-MAML_Reptile',
-          description: "Implementations of popular meta-learning algorithms",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9/";
             },},];
