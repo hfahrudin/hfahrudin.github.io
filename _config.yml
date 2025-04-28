@@ -202,7 +202,7 @@ exclude:
   - _pages/profiles.md
   - _data/cv.yml
   - template/_posts/
-  - _pages/projects.md
+  # - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
