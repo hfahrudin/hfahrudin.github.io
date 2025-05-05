@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -44,6 +51,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-joined-idemia-jakarta-as-software-engineer-in-software-test-factory-team",
           title: 'Joined IDEMIA, Jakarta as Software Engineer in Software Test Factory Team',
+          description: "",
+          section: "News",},{id: "news-completed-b-sc-in-electrical-engineering-at-institut-teknologi-sepuluh-nopember",
+          title: 'Completed B.Sc. in Electrical Engineering at Institut Teknologi Sepuluh Nopember',
           description: "",
           section: "News",},{id: "news-graduated-with-a-b-sc-in-electrical-engineering-from-institut-teknologi-sepuluh-nopember",
           title: 'Graduated with a B.Sc. in Electrical Engineering from Institut Teknologi Sepuluh Nopember',
@@ -87,13 +97,13 @@ ninja.data = [{
           section: "News",},{id: "news-pivoted-to-drive-the-development-of-enterprise-llm-based-ai-agent-solutions-for-crosscert",
           title: 'Pivoted to drive the development of enterprise LLM-based AI Agent solutions for Crosscert...',
           description: "",
-          section: "News",},{id: "projects-saiva-data-driven-innovation",
-          title: 'SAIVA Data-Driven Innovation',
-          description: "Led the innovation of data-driven bring it to MVP-ready state",
+          section: "News",},{id: "projects-saiva-innovation-amp-launch",
+          title: 'SAIVA Innovation &amp;amp; Launch',
+          description: "Led the development of data-driven features and refining the system to achieve a market-ready MVP state",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1/";
-            },},{id: "projects-jersey-number-tracking",
-          title: 'Jersey Number Tracking',
+            },},{id: "projects-jersey-number-tracking-solution",
+          title: 'Jersey Number Tracking Solution',
           description: "Our solution submitted on SoccerNet 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10/";
@@ -124,7 +134,7 @@ ninja.data = [{
               window.location.href = "/projects/4/";
             },},{id: "projects-facex",
           title: 'facex',
-          description: "Lightweight, High-Performance Facial Expression Classifier",
+          description: "Lightweight, High-Performance emotion classifier trained on various emotion benchmark datasets.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5/";
             },},{id: "projects-dockerize-llamafile",
@@ -134,7 +144,7 @@ ninja.data = [{
               window.location.href = "/projects/6/";
             },},{id: "projects-trex-dqn",
           title: 'trex-DQN',
-          description: "Can AI interprete Visual Input",
+          description: "What if the AI learns to play the game based solely on visual inputs, like humans do?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7/";
             },},{id: "projects-immitation-learning-in-football",
