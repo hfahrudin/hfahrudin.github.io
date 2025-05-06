@@ -97,9 +97,9 @@ ninja.data = [{
           section: "News",},{id: "news-pivoted-to-drive-the-development-of-enterprise-llm-based-ai-agent-solutions-for-crosscert",
           title: 'Pivoted to drive the development of enterprise LLM-based AI Agent solutions for Crosscert...',
           description: "",
-          section: "News",},{id: "projects-saiva-innovation-amp-launch",
-          title: 'SAIVA Innovation &amp;amp; Launch',
-          description: "Led the development of data-driven features and refining the system to achieve a market-ready MVP state",
+          section: "News",},{id: "projects-saiva-inno-amp-launch",
+          title: 'SAIVA Inno &amp;amp; Launch',
+          description: "Led the development of data-driven features and system refinement for SAIVA to achieve a market-ready state",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1/";
             },},{id: "projects-jersey-number-tracking-solution",
@@ -117,19 +117,14 @@ ninja.data = [{
           description: "Enhancing Online VR Experiences with Customized Motion Tracking",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12/";
-            },},{id: "projects-optimize-llm-inference",
-          title: 'Optimize LLM Inference',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2/";
-            },},{id: "projects-product-amp-project-framework",
-          title: 'Product &amp;amp; Project Framework',
+            },},{id: "projects-product-project-framework",
+          title: 'Product-Project Framework',
           description: "An overview of my approach to managing products and projects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3/";
-            },},{id: "projects-enterprise-ai-agent-solutions",
-          title: 'Enterprise AI Agent Solutions',
-          description: "Levereging LLM and RAG architecture to Build Tech Support Agent",
+            },},{id: "projects-ai-powered-tech-support-agents",
+          title: 'AI-Powered Tech Support Agents',
+          description: "An enterprise solution powered by LLM-RAG to deploy tech support AI agent",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4/";
             },},{id: "projects-facex",
