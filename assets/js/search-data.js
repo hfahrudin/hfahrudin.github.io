@@ -104,14 +104,14 @@ ninja.data = [{
           description: "Our solution submitted on SoccerNet 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10/";
-            },},{id: "projects-facial-expression-detector",
-          title: 'Facial Expression Detector',
+            },},{id: "projects-assistive-device-to-recog-expressions",
+          title: 'Assistive Device to Recog. Expressions',
           description: "Assisting Visually Impaired Individuals with Real-time Emotion Detection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11/";
             },},{id: "projects-head-motion-prediction-in-online-vr",
           title: 'Head Motion Prediction in Online VR',
-          description: "Enhancing Online VR Experiences with Customized Motion Tracking",
+          description: "Improve Online VR Experiences with Enhancement of Head Motion Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12/";
             },},{id: "projects-product-project-framework",
