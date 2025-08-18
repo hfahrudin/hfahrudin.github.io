@@ -114,6 +114,11 @@ ninja.data = [{
           description: "Improve Online VR Experiences with Enhancement of Head Motion Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12/";
+            },},{id: "projects-facex",
+          title: 'facex',
+          description: "A lightweight orchestration framework for LLM agent",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13/";
             },},{id: "projects-product-project-framework",
           title: 'Product-Project Framework',
           description: "An overview of my approach to managing products and projects",
