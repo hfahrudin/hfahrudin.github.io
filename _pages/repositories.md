@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /repositories/
 title: Repositories
@@ -15,4 +15,4 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
