@@ -111,6 +111,11 @@ ninja.data = [{
           description: "A lightweight orchestration framework for LLM agent",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13/";
+            },},{id: "projects-orkes-agent",
+          title: 'Orkes-agent',
+          description: "Collections of agentic based tool using Orkes as its backbone",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14/";
             },},{id: "projects-product-project-framework",
           title: 'Product-Project Framework',
           description: "An overview of my approach to managing products and projects",
@@ -122,13 +127,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/4/";
             },},{id: "projects-facex",
-          title: 'facex',
-          description: "Lightweight, High-Performance emotion classifier trained on various emotion benchmark datasets.",
+          title: 'Facex',
+          description: "Lightweight, High-Performance emotion classifier.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5/";
-            },},{id: "projects-dockerize-llamafile",
-          title: 'Dockerize-Llamafile',
-          description: "Making it easy to deploy and manage LlamaFile",
+            },},{id: "projects-flowkestra",
+          title: 'Flowkestra',
+          description: "A lightweight MLFlow weapper to streamlined MLOps orchestration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6/";
             },},{id: "projects-trex-dqn",
