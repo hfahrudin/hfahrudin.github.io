@@ -23,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -70,8 +56,8 @@ ninja.data = [{
           section: "News",},{id: "news-graduated-with-a-m-sc-in-electrical-and-information-engineering-from-seoultech",
           title: 'Graduated with a M.Sc. in Electrical and Information Engineering from Seoultech',
           description: "",
-          section: "News",},{id: "news-promoted-to-lead-engineer-in-ai-product-r-amp-amp-d-at-crosscert",
-          title: 'Promoted to Lead Engineer in AI Product R&amp;amp;amp;D at Crosscert',
+          section: "News",},{id: "news-promoted-to-a-full-time-ai-engineer-in-global-business-unit-at-crosscert",
+          title: 'Promoted to a full time AI Engineer in Global Business Unit at Crosscert...',
           description: "",
           section: "News",},{id: "news-joined-aibrain-to-lead-cross-functional-engineering-team-in-delivering-data-driven-features-for-saiva",
           title: 'Joined AIBrain to lead cross-functional engineering team in delivering data-driven features for SAIVA...',
@@ -93,6 +79,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-pivoted-to-drive-the-development-of-enterprise-llm-based-ai-agent-solutions-for-crosscert",
           title: 'Pivoted to drive the development of enterprise LLM-based AI Agent solutions for Crosscert...',
+          description: "",
+          section: "News",},{id: "news-joined-crosscert-s-ai-business-unit-to-lead-solution-engineering-initiatives-across-the-company",
+          title: 'Joined Crosscert’s AI Business Unit to lead solution engineering initiatives across the company....',
+          description: "",
+          section: "News",},{id: "news-the-first-ever-version-of-orkes-has-been-released",
+          title: 'The first-ever version of Orkes has been released!',
           description: "",
           section: "News",},{id: "projects-saiva-inno-amp-launch",
           title: 'SAIVA Inno &amp;amp; Launch',
