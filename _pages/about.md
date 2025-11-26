@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <p><strong>🤖 Apparently, AI Doesn’t Deploy Itself</strong><br>
-Which is why I bring hands-on experience in AI engineering, full-stack development, and cloud infrastructure to build systems that are not just functional but also robust and scalable.</p>
+Which is why I bring hands-on experience in building ML models, image processing solutions, Dev/MLOps infrastructure, and full-stack web development to build systems that are not just functional but also robust and scalable.</p>
 
 
 <p><strong>🌐 Talent Whisperer</strong><br>
