@@ -108,12 +108,12 @@ ninja.data = [{
               window.location.href = "/projects/12/";
             },},{id: "projects-orkes",
           title: 'Orkes',
-          description: "A lightweight orchestration framework for LLM agent",
+          description: "A lightweight orchestration framework for LLM agents, no abstractions you don’t needs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13/";
-            },},{id: "projects-orkes-agent",
-          title: 'Orkes-agent',
-          description: "Collections of agentic based tool using Orkes as its backbone",
+            },},{id: "projects-automation-labs",
+          title: 'Automation Labs',
+          description: "Collection of Deploy-Ready AI/ML Projects (Agentic, CV, Data Pipeline) &amp; Research Implementations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14/";
             },},{id: "projects-product-project-framework",
@@ -126,11 +126,6 @@ ninja.data = [{
           description: "An enterprise solution powered by LLM-RAG to deploy tech support AI agent",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4/";
-            },},{id: "projects-facex",
-          title: 'Facex',
-          description: "Lightweight, High-Performance emotion classifier.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5/";
             },},{id: "projects-flowkestra",
           title: 'Flowkestra',
           description: "A lightweight MLFlow weapper to streamlined MLOps orchestration",
