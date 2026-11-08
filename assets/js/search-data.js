@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
+  },{id: "nav-repositories",
+          title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-blog",
           title: "Blog",
@@ -86,6 +79,18 @@ ninja.data = [{
           section: "News",},{id: "news-the-first-ever-version-of-orkes-has-been-released",
           title: 'The first-ever version of Orkes has been released!',
           description: "",
+          section: "News",},{id: "news-released-automation-labs-a-collection-of-deploy-ready-ai-ml-projects",
+          title: 'Released Automation-labs, a collection of deploy-ready AI/ML projects',
+          description: "",
+          section: "News",},{id: "news-joined-mekari-jakarta-as-senior-ai-engineer-ii",
+          title: 'Joined Mekari, Jakarta as Senior AI Engineer II',
+          description: "",
+          section: "News",},{id: "news-released-orkes-v0-1-4-with-trace-export-to-orkes-watcher",
+          title: 'Released Orkes v0.1.4 with trace export to Orkes Watcher',
+          description: "",
+          section: "News",},{id: "news-released-orkes-watcher-an-observability-platform-for-graph-based-agents",
+          title: 'Released Orkes Watcher, an observability platform for graph-based agents',
+          description: "",
           section: "News",},{id: "projects-saiva-inno-amp-launch",
           title: 'SAIVA Inno &amp;amp; Launch',
           description: "Led the development of data-driven features and system refinement for SAIVA to achieve a market-ready state",
@@ -108,14 +113,19 @@ ninja.data = [{
               window.location.href = "/projects/12/";
             },},{id: "projects-orkes",
           title: 'Orkes',
-          description: "A lightweight orchestration framework for LLM agents, no abstractions you don’t needs.",
+          description: "A lightweight graph framework for LLM agents. No abstractions, no black boxes, just your logic.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13/";
             },},{id: "projects-automation-labs",
           title: 'Automation Labs',
-          description: "Collection of Deploy-Ready AI/ML Projects (Agentic, CV, Data Pipeline) &amp; Research Implementations.",
+          description: "A collection of deploy-ready AI/ML projects (agents, computer vision, ML pipelines) and research implementations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14/";
+            },},{id: "projects-orkes-watcher",
+          title: 'Orkes Watcher',
+          description: "An observability platform for graph-based agents. Every node, every edge, every loop, traced.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15/";
             },},{id: "projects-product-project-framework",
           title: 'Product-Project Framework',
           description: "An overview of my approach to managing products and projects",
@@ -126,11 +136,6 @@ ninja.data = [{
           description: "An enterprise solution powered by LLM-RAG to deploy tech support AI agent",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4/";
-            },},{id: "projects-flowkestra",
-          title: 'Flowkestra',
-          description: "A lightweight MLFlow weapper to streamlined MLOps orchestration",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6/";
             },},{id: "projects-trex-dqn",
           title: 'trex-DQN',
           description: "What if the AI learns to play the game based solely on visual inputs, like humans do?",
