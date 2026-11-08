@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Repositories
+permalink: /repositories/
 nav: true
 nav_order: 2
 display_categories: [📂Open Source, 📦Products, 🛠️Engineering]
@@ -62,4 +62,18 @@ horizontal: false
   </div>
   {% endif %}
 {% endif %}
+</div>
+
+{% if site.data.repositories.github_users %}
+<h2 class="category">📦GitHub Repositories</h2>
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
+<h2 class="category">📄Publications</h2>
+<div class="publications">
+{% bibliography %}
 </div>
